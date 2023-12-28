@@ -7,7 +7,7 @@ Projeto feito durante a aula na plataforma Alura, criado utilizando HTML e CSS, 
 | -------------  | --- |
 | :sparkles: Nome        | **AluraPlay**
 | :label: Tecnologias | HTML, CSS, Figma
-| :rocket: URL         | https://alura-books-silk-seven.vercel.app/
+| :rocket: URL         | https://alura-play-rose-six.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](assets/print.png)
+![](img/print.png)
